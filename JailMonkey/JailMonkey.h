@@ -13,6 +13,7 @@
 #else
   #import "RCTBridgeModule.h"
 #endif
+#import <CoreLocation/CoreLocation.h>
 
 @interface JailMonkey : NSObject <RCTBridgeModule>
 
